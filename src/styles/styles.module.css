@@ -1,0 +1,24 @@
+body {
+  margin           : 0;
+  background-color : #254021;
+  font-family      : "Poppins", sans-serif;
+  display          : flex;
+  justify-content  : center;
+  width            : 100vw;
+}
+
+main {
+  margin    : 1rem 3rem;
+  max-width : 255px;
+  color     : #79d66d;
+  font-size : medium;
+}
+
+a {
+  color       : rgb(162, 255, 170);
+  white-space : nowrap;
+}
+
+article {
+  max-width : 515px;
+}
